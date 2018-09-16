@@ -1,2 +1,4 @@
-export const ADD_CART = 'Them vao gio hang';
-    
+export const ADD_CART = 'ADD_TO_CART';
+export const DELETE_PRODUCT = 'DELETE_PRODUCT';
+export const CHANGE_MESSAGE = 'CHANGE_MESSAGE';
+export const UPDATE_PRODUCT = 'UPDATE_PRODUCT';
